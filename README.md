@@ -8,4 +8,4 @@
 https://blog.csdn.net/qq_40893595/article/details/109080812
 
 已经成功部署啦！这里是项目链接：
-http://47.104.62.86:8080/java_image_server/index.html
+http://47.104.62.86:8080/java_image_server/index.html（云服务器已过期）
